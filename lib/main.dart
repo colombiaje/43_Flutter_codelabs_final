@@ -10,7 +10,7 @@ import 'package:provider/provider.dart';
 import 'firebase_options.dart';
 import 'src/authentication.dart';
 import 'src/widgets.dart';
-
+//prueba5
 void main() {
   runApp(
     ChangeNotifierProvider(
